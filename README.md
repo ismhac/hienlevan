@@ -1,0 +1,37 @@
+### WELCOME TO MY PAGE 👋👋👋
+My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Technology and Education, majoring in Infomation Technology. I am interested in the following topic: software Engineering, Artificial Intelligence, Blockchain<br>
+## 📫 How to reach me:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hienle-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hienlevan/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCf55nyusBBVGk4dLcRyOpCA)
+
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hienlevan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/hienlevan/NotesApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesApp&theme=react" />
+</a>    
+<a href="https://github.com/hienlevan/NotesAppApi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesAppApi&theme=react" />
+</a>
+
+<a href="https://github.com/hienlevan/SimpleDigitalClock">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleDigitalClock&theme=react" />
+</a>    
+<a href="https://github.com/hienlevan/SimpleMultiplicationApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleMultiplicationApp&theme=react" />
+</a>
+
+<a href="https://github.com/hienlevan/SimpleRealTimeCharacterCounter">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleRealTimeCharacterCounter&theme=react" />
+</a>    
+<a href="https://github.com/hienlevan/hienlevan">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=hienlevan&theme=react" />
+</a>    
+
