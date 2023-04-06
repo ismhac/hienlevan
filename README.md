@@ -6,37 +6,37 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hienlevan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hienlevan&show_icons=true&theme=vue&hide=contribs,prs,issues)
 
 <a href="https://github.com/hienlevan/NotesApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesApp&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesApp&theme=vue" />
 </a>    
 <a href="https://github.com/hienlevan/NotesAppApi">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesAppApi&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=NotesAppApi&theme=vue" />
 </a>
 
 <a href="https://github.com/hienlevan/Voice-recognition-of-unsigned-Vietnamese-digits-CNN-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Voice-recognition-of-unsigned-Vietnamese-digits-CNN-&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Voice-recognition-of-unsigned-Vietnamese-digits-CNN-&theme=vue" />
 </a>
 
 <a href="https://github.com/hienlevan/SimpleDigitalClock">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleDigitalClock&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleDigitalClock&theme=vue" />
 </a>    
 <a href="https://github.com/hienlevan/SimpleMultiplicationApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleMultiplicationApp&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleMultiplicationApp&theme=vue" />
 </a>
 
 <a href="https://github.com/hienlevan/SimpleRealTimeCharacterCounter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleRealTimeCharacterCounter&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=SimpleRealTimeCharacterCounter&theme=vue" />
 </a>    
 <a href="https://github.com/hienlevan/hienlevan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=hienlevan&theme=react" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=hienlevan&theme=vue" />
 </a>    
 
