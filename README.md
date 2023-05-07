@@ -22,9 +22,9 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Voice-recognition-of-unsigned-Vietnamese-digits-CNN-&theme=algolia" />
 </a>
 
-<a href="https://github.com/hienlevan/Project_Xu_Ly_Anh">
+<a href="https://github.com/hienlevan/Tkinter_Ui_Image_Processing">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Project_Xu_Ly_Anh&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Tkinter_Ui_Image_Processing&theme=algolia" />
 </a>  
 
 <a href="https://github.com/hienlevan/Windows-Forms-programming-project">
