@@ -22,6 +22,11 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=design-pattern-with-springboot&theme=algolia" />
 </a>
 
+<a href="https://github.com/hienlevan/Quan-Li-Sach-Spring-boot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Quan-Li-Sach-Spring-boot&theme=algolia" />
+</a>
+
 <a href="https://github.com/hienlevan/Voice-recognition-of-unsigned-Vietnamese-digits-CNN-">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=hienlevan&repo=Voice-recognition-of-unsigned-Vietnamese-digits-CNN-&theme=algolia" />
