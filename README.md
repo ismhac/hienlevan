@@ -8,13 +8,13 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismhac&show_icons=true&theme=algolia&hide=contribs,prs,issues)
 
-<a href="https://github.com/ismhac/NotesApp">
+<a href="https://github.com/ismhac/Mobile_Notes_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=NotesApp&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Mobile_Notes_App&theme=algolia" />
 </a>    
-<a href="https://github.com/ismhac/NotesAppApi">
+<a href="https://github.com/ismhac/Api_Notes_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=NotesAppApi&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Api_Notes_App&theme=algolia" />
 </a>
 
 <a href="https://github.com/ismhac/design-pattern-with-springboot">
@@ -27,9 +27,9 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Quan-Li-Sach-Spring-boot&theme=algolia" />
 </a>
 
-<a href="https://github.com/ismhac/Voice-recognition-of-unsigned-Vietnamese-digits-CNN-">
+<a href="https://github.com/ismhac/-CNN-Voice-recognition-of-unsigned-Vietnamese-digits">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Voice-recognition-of-unsigned-Vietnamese-digits-CNN-&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=-CNN-Voice-recognition-of-unsigned-Vietnamese-digits&theme=algolia" />
 </a>
 
 <a href="https://github.com/ismhac/Tkinter_Ui_Image_Processing">
