@@ -27,9 +27,9 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Quan-Li-Sach-Spring-boot&theme=algolia" />
 </a>
 
-<a href="https://github.com/ismhac/typescript-express-restful-">
+<a href="https://github.com/ismhac/typescript-express-restful">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=typescript-express-restful-&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=typescript-express-restful&theme=algolia" />
 </a>
 
 <a href="https://github.com/ismhac/pet-love">
