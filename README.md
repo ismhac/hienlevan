@@ -18,6 +18,11 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=typescript-express-restful&theme=algolia" />
 </a>
 
+<a href="https://github.com/ismhac/Py_Django">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Py_Django&theme=algolia" />
+</a>
+
 <a href="https://github.com/ismhac/Mobile_Notes_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Mobile_Notes_App&theme=algolia" />
