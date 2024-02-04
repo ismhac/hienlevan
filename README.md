@@ -7,7 +7,7 @@ My name is Hien (Van) Le. I am an student at Ho Chi Minh City University of Tech
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismhac&show_icons=true&theme=graywhite&hide=contribs,prs,issues)
 
 <a href="https://github.com/ismhac/Express_TypeScript_Puppeteer_ismhac">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Express_TypeScript_Puppeteer_ismhac&theme=graywhite" />
+  <img style="margin: 2px;" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ismhac&repo=Express_TypeScript_Puppeteer_ismhac&theme=graywhite" />
 </a> 
 
 <a href="https://github.com/ismhac/Spring_Boot_Book_Management_ismhac">
